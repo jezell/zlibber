@@ -1,0 +1,11 @@
+{
+  "name": "zlibber",
+  "version": "0.0.1",
+  "description": "",
+  "author": "",
+  "license": "BSD",
+  "bin" : {
+    "inflate" : "inflate.js",
+    "deflate" : "deflate.js"
+  }
+}
