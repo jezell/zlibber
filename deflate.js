@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var zlib = require("zlib");
 
 var deflate = zlib.createDeflate();

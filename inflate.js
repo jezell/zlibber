@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var zlib = require("zlib");
 
 var inflate = zlib.createInflate();
